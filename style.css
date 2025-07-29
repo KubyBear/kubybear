@@ -1,0 +1,18 @@
+body {
+  background: #000000;              /* Couleur de fond claire */
+  font-family: Arial, sans-serif;    /* Police générale de la page */
+  color: #feffff;                   /* Couleur du texte par défaut */
+  margin: 40px;                     /* Marge autour du contenu */
+}
+
+h1 {
+  color: #ffffff;                   /* Couleur du titre principal */
+}
+
+p {
+  font-size: 18px;                  /* Taille du texte des paragraphes */
+}
+
+.responsive {
+  font-size: 2vw;
+}
