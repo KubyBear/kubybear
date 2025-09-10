@@ -16,3 +16,7 @@ p {
 .responsive {
   font-size: 2vw;
 }
+
+/* image */
+
+img { float: right; }
